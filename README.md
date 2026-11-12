@@ -28,7 +28,7 @@ This is the official repository for AAE4011. It hosts the code, datasets, in-cla
 | Teaching Assistant | Mr Yiming Chen | Lab sessions; GitHub Issues |
 | Teaching Assistant | Mr Jiahao Hu | Lab sessions; GitHub Issues |
 
-Emails to the Subject Lecturer are answered within two working days. Technical and coding questions should be raised as [GitHub Issues](../../issues) so that all students benefit from the answers.
+Emails to the Subject Lecturer are answered within five working days. Technical and coding questions should be raised as [GitHub Issues](../../issues) so that all students benefit from the answers.
 
 ## Intended Learning Outcomes
 
