@@ -1,0 +1,15 @@
+# Slides are distributed separately, not via GitHub
+*.pptx
+*.ppt
+*.key
+
+# Office lock files
+~$*
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Dropbox conflict copies
+* (Conflicted copy*).pptx
