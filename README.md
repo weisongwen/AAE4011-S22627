@@ -1,7 +1,7 @@
 # AAE4011 Artificial Intelligence in Unmanned Autonomous Systems
 
-**Department of Aeronautical and Aviation Engineering**
-**The Hong Kong Polytechnic University**
+**Department of Aeronautical and Aviation Engineering**<br>
+**The Hong Kong Polytechnic University**<br>
 **Semester 2, Academic Year 2026/27**
 
 This is the official repository for AAE4011. It hosts the code, datasets, in-class tasks and announcements for the subject. Lecture slides are distributed through the University's learning management system.
