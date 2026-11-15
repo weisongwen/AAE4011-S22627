@@ -44,7 +44,7 @@ Upon completion of the subject, students will be able to:
 | Component | Weighting | Arrangement |
 |---|:---:|---|
 | Homework | 20% | Individual; late submissions are not accepted |
-| Mid-term test | 15% | Week 8 (9 March 2027); closed book; covers Weeks 1–7 |
+| Mid-term test | 15% | Week 9 (16 March 2027); closed book; covers Weeks 1–8 |
 | Group project | 15% | Case-study presentations in Weeks 12–13 (6 and 13 April 2027) |
 | Final examination | 50% | Open book; examination period 22 April – 8 May 2027 |
 
@@ -58,17 +58,17 @@ Upon completion of the subject, students will be able to:
 | 2 | 19 Jan | Introduction and Fundamentals of AI for UAS (Part 2): machine learning and deep learning overview, Python, AI-assisted programming | In-class practice |
 | 3 | 26 Jan | Linear and Logistic Regression; ROS and LiDAR SLAM (LIO-SAM) | In-class practice |
 | 4 | 2 Feb | Unsupervised Learning; YOLO object detection on UAS data | In-class practice |
-| 5 | 16 Feb | Optimisation (GD, SGD, Adam, Newton, Gauss–Newton, Levenberg–Marquardt); UWB and GNSS positioning | In-class practice |
-| 6 | 23 Feb | Decision Trees and Random Forests; GNSS signal classification | In-class practice |
-| 7 | 2 Mar | Laboratory Session: GNSS NLOS Signal Classification | Laboratory |
-| 8 | 9 Mar | **Mid-term Test** (Weeks 1–7) | 15% |
-| 9 | 16 Mar | Multi-Layer Perceptrons and Backpropagation | In-class practice |
-| 10 | 23 Mar | Convolutional Neural Networks for Unmanned Autonomous Systems | In-class practice |
-| 11 | 30 Mar | Reading Week (no class) | – |
+| 5 | 16 Feb | Reading Week (no class) | – |
+| 6 | 23 Feb | Optimisation (GD, SGD, Adam, Newton, Gauss–Newton, Levenberg–Marquardt); UWB and GNSS positioning | In-class practice |
+| 7 | 2 Mar | Decision Trees, Random Forests and Support Vector Machines; UAS fault diagnosis | In-class practice |
+| 8 | 9 Mar | Laboratory Session: GNSS NLOS Signal Classification | Laboratory |
+| 9 | 16 Mar | **Mid-term Test** (Weeks 1–8) | 15% |
+| 10 | 23 Mar | Multi-Layer Perceptrons and Backpropagation | In-class practice |
+| 11 | 30 Mar | Convolutional Neural Networks for Unmanned Autonomous Systems | In-class practice |
 | 12 | 6 Apr | **Group Case-Study Presentations** (Part 1) | 15% (group) |
 | 13 | 13 Apr | **Group Case-Study Presentations** (Part 2) | |
 
-There is no class on 9 February 2027 (Lunar New Year). The schedule is subject to change; any change will be announced in class and in this repository.
+There is no class on 9 February 2027 (Lunar New Year) or on 16 February 2027 (Reading Week). The schedule is subject to change; any change will be announced in class and in this repository.
 
 ## Repository Structure
 
